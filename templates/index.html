@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/flatly/bootstrap.min.css" type="text/css"/>
+    </head>
+    <body>
+        <div class="container-fluid">
+            <div class="row">
+                <table class="table table-striped table-bordered table-hover table-condensed">
+                <tr>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>Phone</th>
+                    <th>Denomination</th>
+                    <th>Grades</th>
+                    <th>Website</th>
+                </tr>
+                {% for school in schools %}
+                <tr>
+                    <td>{{ school.name }}</td>
+                    <td>{{ school.address }}</td>
+                    <td>{{ school.phone }}</td>
+                    <td>{{ school.denomination }}</td>
+                    <td>{{ school.grades }}</td>
+                    <td><a href="{{ school.website }}" target="_blank">{{ school.website }}</a></td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+    </body>
+</html>
