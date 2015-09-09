@@ -8,27 +8,32 @@
     {
         "address": "3501 Broadway San Antonio, Tx 78209",
         "name": "Acorn School",
-        "phone": "(210) 826-8804"
+        "phone": "(210) 826-8804",
+        "website": "http://www.theacornschool.net/"
     },
     {
         "address": "7 Sisterdale Rd Boerne, Tx 78006",
         "name": "Ambleside School of Boerne",
-        "phone": "(830) 388-8865"
+        "phone": "(830) 388-8865",
+        "website": "http://amblesideboerne.com/"
     },
     {
         "address": "227 Eross San Antonio, Tx 78202",
         "name": "Antioch Christian Academy",
-        "phone": "(210) 222-0159"
+        "phone": "(210) 222-0159",
+        "website": "http://acasat.com/"
     },
     {
         "address": "6425 West Avenue San Antonio, Tx 78213",
         "name": "Antonian College Preparatory",
-        "phone": "(210) 344-9265"
+        "phone": "(210) 344-9265",
+        "website": "http://www.antonian.org/"
     },
     {
         "address": "15415 Red Robin San Antonio, Tx 78255",
         "name": "Atonement Academy Preparatory School",
-        "phone": "(210) 695-2944"
+        "phone": "(210) 695-2944",
+        "website": "http://school.atonementonline.com/"
     },
     {
         "address": "5235 David Edwards Dr San Antonio, Tx 78233",
@@ -39,117 +44,141 @@
     {
         "address": "12721 Mountain Air San Antonio, Tx 78249",
         "name": "Blessed Hope Academy",
-        "phone": "(210) 697-9191"
+        "phone": "(210) 697-9191",
+        "website": "http://blessedhopeacademy.com/"
     },
     {
         "address": "600 Oblate Dr. San Antonio, Tx 78216",
         "name": "Blessed Sacrament Catholic School",
-        "phone": "(210) 824-3381"
+        "phone": "(210) 824-3381",
+        "website": "http://www.blessedschool.com/"
     },
     {
         "address": "670 Old Boerne Rd. Bulverde, Tx 78163",
         "name": "Bracken Christian School",
-        "phone": "(830) 438-3211"
+        "phone": "(830) 438-3211",
+        "website": "http://www.brackenchristian.com/"
     },
     {
         "address": "14207 Higgins Rd. San Antonio, Tx 78217",
         "name": "Brighton Center",
-        "phone": "(210) 826-4492"
+        "phone": "(210) 826-4492",
+        "website": "http://brightonsa.org/"
     },
     {
         "address": "2935 Pat Booker San Antonio, Tx 78148",
         "name": "Calvary Chapel Christian Academy",
-        "phone": "(210) 658-8337"
+        "phone": "(210) 658-8337",
+        "website": "http://www.calvarysa.com/CCCA/"
     },
     {
         "address": "2220 N.W. Military Hwy San Antonio, Tx 78213",
         "name": "Castle Hills First Baptist School",
-        "phone": "(210) 377-8485"
+        "phone": "(210) 377-8485",
+        "website": "http://www.chfbs.org/"
     },
     {
         "address": "1403 N St. Mary's San Antonio, Tx 78215",
         "name": "Central Catholic High School",
-        "phone": "(210) 225-6794"
+        "phone": "(210) 225-6794",
+        "website": "http://www.cchs-satx.org/"
     },
     {
         "address": "2829 Hunters Green San Antonio, Tx 78231",
         "name": "CHILD Montessori School",
-        "phone": "(210) 493-6550"
+        "phone": "(210) 493-6550",
+        "website": "http://childmontessori.org/"
     },
     {
         "address": "325 Castroville Rd. San Antonio, Tx 78207",
         "name": "Christian Academy of San Antonio",
-        "phone": "(210) 431-7355"
+        "phone": "(210) 431-7355",
+        "website": "http://www.christianacademysa.org/"
     },
     {
         "address": "217 Pershing Avenue San Antonio, Tx 78209",
         "name": "Circle School",
-        "phone": "(210) 822-0461"
+        "phone": "(210) 822-0461",
+        "website": "http://www.thecircleschool.org/"
     },
     {
         "address": "12746 Cimarron Path San Antonio, Tx 78249",
         "name": "Clowvazar Academy",
-        "phone": "(210) 690-4800"
+        "phone": "(210) 690-4800",
+        "website": "http://www.clowvazar.com/"
     },
     {
-        "address": "5247 Vance Jackson\r San Antonio, TX 78230",
+        "address": "5247 Vance Jackson San Antonio, TX 78230",
         "name": "Colonial Hills United Methodist School",
-        "phone": "(210) 349-1092"
+        "phone": "(210) 349-1092",
+        "website": "http://www.colonialhills.info/"
+
     },
     {
         "address": "16801 Huebner Rd. San Antonio, Tx 78258",
         "name": "Concordia Lutheran School",
-        "phone": "(210) 479-1477"
+        "phone": "(210) 479-1477",
+        "website": "http://www.clssatx.com/"
     },
     {
         "address": "9146 FM 78 San Antonio, Tx 78109",
-        "name": "Converse Christian School & Learning Center",
-        "phone": "(210) 659-0203"
+        "name": "Converse Christian School",
+        "phone": "(210) 659-0203",
+        "website": "http://www.conversechristianschool.org/"
     },
     {
         "address": "4802 Vance Jackson San Antonio, Tx 78230",
         "name": "Cornerstone Christian School",
-        "phone": "(210) 979-6161"
+        "phone": "(210) 979-6161",
+        "website": "http://www.sa-ccs.org/"
     },
     {
         "address": "5834 Ray Ellison Blvd. San Antonio, Tx 78242",
         "name": "Crossroads Christian Academy",
-        "phone": "(210) 623-4500"
+        "phone": "(210) 623-4500",
+        "website": "http://www.wherelifechanges.com/academy.html"
     },
     {
         "address": "222 Salem Dr. San Antonio, Tx 78201",
         "name": "Discovery School of San Antonio",
-        "phone": "(210) 344-3472"
+        "phone": "(210) 344-3472",
+        "website": "http://www.mydiscoveryschool.com/"
     },
     {
         "address": "3950 Eisenhauer Rd. San Antonio, Tx 78218",
         "name": "Eisenhauer Road Baptist School",
-        "phone": "(210) 655-6831"
+        "phone": "(210) 655-6831",
+        "website": "http://erbc.isrv.org/"
     },
     {
         "address": "1401 Pat Booker Rd. San Antonio, Tx 78148",
         "name": "First Baptist Academy",
-        "phone": "(210) 658-5331"
+        "phone": "(210) 658-5331",
+        "website": "http://www.fbauc.com/"
     },
     {
         "address": "6623 Five Palms San Antonio, Tx 78242",
         "name": "Gateway Christian School",
-        "phone": "(210) 674-5703"
+        "phone": "(210) 674-5703",
+        "website": "http://www.gw-school.org/"
     },
     {
         "address": "113 Cascade Caverns Rd Boerne, Tx 78015",
         "name": "Geneva School of Boerne",
-        "phone": "(830) 755-6101"
+        "phone": "(830) 755-6101",
+        "website": "http://www.genevaschooltx.org/"
     },
     {
         "address": "6944 South Sunbelt Dr. San Antonio, Tx 78218",
         "name": "George Gervin Academy",
-        "phone": "(210) 568-8800"
+        "phone": "(210) 568-8800",
+        "website": "http://www.gervin-school.org/"
     },
     {
         "address": "7760 Prue Road San Antonio, Tx 78249",
         "name": "Grace Christian School",
-        "phone": "(210) 265-8166"
+        "phone": "(210) 265-8166",
+        "website": "http://www.gracechristianschool-sa.com/"
     },
     {
         "address": "50 Stone Wall Drive Boerne, Tx 78006",
@@ -166,12 +195,14 @@
     {
         "address": "3814 Nash Blvd. San Antonio, Tx 78223",
         "name": "Holy Name Catholic School",
-        "phone": "(210) 333-7356"
+        "phone": "(210) 333-7356",
+        "website": "http://www.hncstx.org/"
     },
     {
         "address": "770 W. Ramsey San Antonio, Tx 78216",
         "name": "Holy Spirit Catholic School",
-        "phone": "(210) 349-1169"
+        "phone": "(210) 349-1169",
+        "website": "http://www.hscssa.org/"
     },
     {
         "address": "727 E. Hildebrand San Antonio , Tx 78212",
@@ -182,18 +213,20 @@
     {
         "address": "6720 FM 482 San Antonio, Tx 78132",
         "name": "John Paul II Catholic High School",
-        "phone": "(830) 643-0802"
+        "phone": "(830) 643-0802",
+        "website": "http://johnpaul2chs.org/"
     },
     {
         "address": "119 E. Craig Place San Antonio , Tx 78212",
-        "name": "Keystone School preparatory school",
+        "name": "Keystone School Preparatory School",
         "phone": "(210) 735-4022",
         "website": "http://www.keystoneschool.org/"
     },
     {
         "address": "905 Kentucky Ave. San Antonio, Tx 78201",
         "name": "Little Flower Catholic School",
-        "phone": "(210) 732-9207 "
+        "phone": "(210) 732-9207",
+        "website": "http://www.littleflowercatholicschool.org/"
     },
     {
         "address": "2376 Bulverde Road Bulverde, TX 78163",
@@ -216,17 +249,20 @@
     {
         "address": "2526 Goliad Rd. San Antonio, Tx 78223",
         "name": "Maranatha Adventist School",
-        "phone": "(210) 333-8861"
+        "phone": "(210) 333-8861",
+        "website": "http://www.maranathasdaschool.org/"
     },
     {
         "address": "4911 Golden Quail Rd. San Antonio, Tx 78240",
         "name": "Montessori Earth School",
-        "phone": "(210) 558-8339"
+        "phone": "(210) 558-8339",
+        "website": "http://montessoriearthschool.com/"
     },
     {
         "address": "8222 Wurzbach San Antonio, Tx 78229",
         "name": "Montessori School International",
-        "phone": "(210) 614-1665"
+        "phone": "(210) 614-1665",
+        "website": "http://msitexas.com/"
     },
     {
         "address": "17722 Rogers Ranch San Antonio, Tx 78258",
@@ -237,7 +273,8 @@
     {
         "address": "10711 Dreamland Drive San Antonio, Tx 78230",
         "name": "Montessori Schoolhouse",
-        "phone": "(210) 341-0731"
+        "phone": "(210) 341-0731",
+        "website": "http://www.mymontessorischoolhouse.com/"
     },
     {
         "address": "619 Mount Sacred Heart San Antonio, Tx 78216",
@@ -254,27 +291,32 @@
     {
         "address": "220 FM 1863 New braunfels, Tx 78132",
         "name": "New Braunfels Christian Academy",
-        "phone": "(830) 629-1821"
+        "phone": "(830) 629-1821",
+        "website": "http://www.nbchristianacademy.org/"
     },
     {
         "address": "6622 Hwy 90 West San Antonio, Tx 78227",
         "name": "New Life Christian Academy",
-        "phone": "(210) 679-6001"
+        "phone": "(210) 679-6001",
+        "website": "http://newlifehybrid.com/"
     },
     {
         "address": "8511 Heath Circle Drive San Antonio, Tx 78250",
         "name": "Northwest Hills Christian School",
-        "phone": "(210) 522-1102"
+        "phone": "(210) 522-1102",
+        "website": "http://nwhcs.org/"
     },
     {
         "address": "16075 N. Evans Rd. San Antonio, Tx 78145",
         "name": "Our Lady of Perpetual Help School",
-        "phone": "(210) 651-6811"
+        "phone": "(210) 651-6811",
+        "website": "http://www.olphselma.org/"
     },
     {
         "address": "11503 Vance Jackson San Antonio, Tx 78230",
         "name": "Our Savior Lutheran Church and School",
-        "phone": "(210) 696-2716"
+        "phone": "(210) 696-2716",
+        "website": "http://www.oslpa.org/"
     },
     {
         "address": "1106 W. Malone San Antonio, Tx 78225",
